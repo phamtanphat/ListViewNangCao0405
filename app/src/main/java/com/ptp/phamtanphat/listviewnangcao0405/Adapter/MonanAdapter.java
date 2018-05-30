@@ -60,7 +60,6 @@ public class MonanAdapter extends BaseAdapter {
         }else{
             viewHolder = (ViewHolder) convertView.getTag();
         }
-
         Monan monan = (Monan) getItem(position);
 
         viewHolder.imgMonan.setImageResource(monan.getHinhanh());
