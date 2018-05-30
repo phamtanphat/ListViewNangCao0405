@@ -1,4 +1,4 @@
-package com.ptp.phamtanphat.listviewnangcao0405;
+package com.ptp.phamtanphat.listviewnangcao0405.Model;
 
 /**
  * Created by KhoaPhamPC on 25/5/2018.
